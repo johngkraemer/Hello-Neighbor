@@ -17,7 +17,7 @@
   top: 42.5%;
   width: auto;
   padding: 1em;
-  color: white;
+  color: #f2f2f2;
   font-weight: bold;
   font-size: 1.5em;
   text-decoration: none;
@@ -31,14 +31,11 @@
   right: 0;
 }
 
-/*
-
 On hover, add a black background color with a little bit see-through
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  color: white;
+  text-decoration: none;
 }
-
-*/
 
 /* Caption text
 .text {
