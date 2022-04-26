@@ -1,3 +1,5 @@
+.mySlides {display: none}
+
 /* Slideshow container */
 .slideshow-container {
   width: 100%;
